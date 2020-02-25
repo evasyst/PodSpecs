@@ -8,7 +8,7 @@
 },
 "name": "VP9WebRTC",
 "platforms": {
-"ios": "12.0"
+"ios": "10.0"
 },
 "preserve_paths": [
 "LICENSE.md",
