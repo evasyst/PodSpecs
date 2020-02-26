@@ -15,7 +15,7 @@
 "README.md"
 ],
 "source": {
-"http": "https://dl.google.com/dl/cpdc/f310fce01248f022/GoogleWebRTC-1.1.29400.tar.gz"
+"http": "https://kast-pod-specs.s3.amazonaws.com/GoogleWebRTC-1.1.29400.tar.gz"
 },
 "summary": "WebRTC iOS SDK",
 "vendored_frameworks": [
