@@ -15,11 +15,11 @@
 "README.md"
 ],
 "source": {
-"http": "https://kast-webrtc.s3-eu-west-1.amazonaws.com/GoogleWebRTC-1.1.29400.tar.gz"
+"http": "https://kast-webrtc.s3-eu-west-1.amazonaws.com/GoogleWebRTC-1.1.29401.tar.gz"
 },
 "summary": "WebRTC iOS SDK",
 "vendored_frameworks": [
 "Frameworks/frameworks/WebRTC.framework"
 ],
-"version": "1.1.29400"
+"version": "1.1.29401"
 }
