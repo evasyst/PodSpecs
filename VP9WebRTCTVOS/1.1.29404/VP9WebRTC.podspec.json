@@ -6,7 +6,7 @@
 "file": "LICENSE.md",
 "type": "Multiple"
 },
-"name": "VP9WebRTC",
+"name": "VP9WebRTCTVOS",
 "platforms": {
 "tvos": "10.0"
 },
