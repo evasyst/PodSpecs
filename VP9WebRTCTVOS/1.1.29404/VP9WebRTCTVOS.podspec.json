@@ -6,20 +6,20 @@
 "file": "LICENSE.md",
 "type": "Multiple"
 },
-"name": "VP9WebRTC",
+"name": "VP9WebRTCTVOS",
 "platforms": {
-"ios": "10.0"
+"tvos": "10.0"
 },
 "preserve_paths": [
 "LICENSE.md",
 "README.md"
 ],
 "source": {
-"http": "https://kast-webrtc.s3-eu-west-1.amazonaws.com/GoogleWebRTC-1.1.29400.tar.gz"
+"http": "https://kast-webrtc-tvos.s3.amazonaws.com/GoogleWebRTC-1.1.29404.tar.gz"
 },
-"summary": "WebRTC iOS SDK",
+"summary": "WebRTC tvOS SDK",
 "vendored_frameworks": [
 "Frameworks/frameworks/WebRTC.framework"
 ],
-"version": "1.1.29400"
+"version": "1.1.29404"
 }
