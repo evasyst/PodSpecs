@@ -15,7 +15,7 @@
 "README.md"
 ],
 "source": {
-"http": "https://kast-webrtc-tvos.s3.amazonaws.com/GoogleWebRTC-1.1.29404.tar.gz"
+"http": "https://kast-pod-specs.s3.amazonaws.com/tvos/GoogleWebRTC-1.1.29404.tar.gz"
 },
 "summary": "WebRTC tvOS SDK",
 "vendored_frameworks": [
